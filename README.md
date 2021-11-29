@@ -4,6 +4,7 @@
 
 <p align="center">
  <a href="#informações-gerais">Informações Gerais</a> •
+ <a href="#integrantes-do-projeto-">Integrantes</a> •
  <a href="#-tecnologias-e-ferramentas">Tecnologias</a> •
  <a href="#autor">Autor</a>
 </p>
