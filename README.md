@@ -22,7 +22,7 @@ Para acessar o projeto sem instalar nada em sua máquina basta [clicar aqui!](ht
 
 Para ter o projeto em sua máquina você ira precisar do [Xampp](https://www.apachefriends.org/pt_br/index.html).
 
-1. Após o download do Xampp, faça o download do projeto, após isso é só extrair os arquivos e dicionalos ao caminho: [C:\xampp\htdocs](C:\xampp\htdocs).
+1. Após o download do Xampp, faça o download do projeto, após isso é só extrair os arquivos e adicionalos ao caminho: [C:\xampp\htdocs](C:\xampp\htdocs).
 
 2. Em seu navegador acesse [http://localhost/iot-inter-main](http://localhost/iot-inter-main/).
 
