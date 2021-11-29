@@ -28,6 +28,8 @@ Para ter o projeto em sua máquina você ira precisar do [Xampp](https://www.apa
 
 3. Pronto, agora só aproveitar 😀
 
+--
+
 ### Integrantes do Projeto 🤝
 
 - [Enrico Ferreira dos Santos](https://www.linkedin.com/in/enrico-ferreira-dos-santos).
