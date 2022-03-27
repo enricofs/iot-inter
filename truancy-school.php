@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title>Inter</title>
 
     <link rel="shortcut icon" href="./assets/imgs/favicon.ico" type="image/x-icon">
@@ -71,8 +71,8 @@
 <section class="second-section">
       <div class="container-main">
         <div class="container-sub">
-          <h2 class="title">Evasão escolar</h2>
-          <p class="subtitle">
+          <h2>Evasão escolar</h2><br><br>
+          <p>
 	A pandemia de covid-19 amplificou muitos dos problemas sociais enfrentados no Brasil, e um dos sintomas que atingiram em cheio a educação no país foi o aumento da evasão escolar.<br> 
 
     <br>Chamamos de evasão escolar quando o estudante, por algum motivo, deixa de ir às aulas, abandonando a escola durante o ano letivo e não retornando para se matricular no ano seguinte.<br>

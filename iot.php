@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title>Inter</title>
 
     <link rel="shortcut icon" href="./assets/imgs/favicon.ico" type="image/x-icon">
@@ -69,8 +69,8 @@
     <section class="seventh-section">
       <div class="container-main">
         <div class="container-sub">
-          <h2 class="title"> O que é IoT? </h2>
-          <p class="subtitle">
+          <h2> O que é IoT? </h2><br><br>
+          <p>
 
     <br>A Internet das Coisas (IoT) descreve a rede de — “objetos físicos” — incorporados a sensores, software e outras tecnologias com o objetivo de conectar e trocar dados com outros dispositivos e sistemas pela internet. Esses dispositivos variam de objetos domésticos comuns a ferramentas industriais sofisticadas. Com mais de 7 bilhões de dispositivos IoT conectados hoje, os especialistas esperam que esse número cresça para 10 bilhões em 2020 e 22 bilhões em 2025. <br>
 

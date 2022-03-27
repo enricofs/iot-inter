@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title>Inter</title>
 
     <link rel="shortcut icon" href="./assets/imgs/favicon.ico" type="image/x-icon">
@@ -71,8 +71,8 @@
 <section class="third-section">
       <div class="container-main">
         <div class="container-sub">
-          <h2 class="title">O que são sistemas embarcados?</h2>
-          <p class="subtitle">
+          <h2>O que são sistemas embarcados?</h2><br><br>
+          <p>
     Também chamado de sistema embutido, é um sistema microprocessado em que um computador está anexado ao sistema que ele controla. Um sistema embarcado pode realizar um conjunto de tarefas que foram predefinidas. O sistema é usado para tarefas específicas, e assim, através de engenharia é possível otimizar um determinado produto e diminuir o tamanho, bem como os recursos computacionais e o seu valor final. <br>
 
     <br>Estes podem ser definidos como dispositivos que funcionam como computadores, que contam com memória, processador, interface de entrada e saída, porém, com o diferencial que desempenham uma tarefa específica. Por essa razão, usamos o micro-ondas como exemplo. No geral, os sistemas são usados em aplicações sem muitas exigências. Os sistemas embarcados costumam ser projetados a partir de uma aplicação. O controle remoto é outro bom exemplo, dentro dele há processador, memória, software, enfim, todos os itens encontrados em um computador convencional. Sistemas embarcados costumam ser desenvolvidos para uma tarefa específica. O sistema pode ainda ser executado com recursos computacionais bastante limitados, ou seja, com a ausência de teclado, tela e mesmo com pouca memória.,<br> 

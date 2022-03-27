@@ -2,6 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title> IoT na educação  </title>
 
     <link rel="shortcut icon" href="./assets/imgs/favicon.ico" type="image/x-icon">
@@ -69,8 +70,8 @@
   <section class="octave-section">
       <div class="container-main">
         <div class="container-sub">
-          <h2 class="title">A tecnologia IoT nas instituições de ensino</h2>
-          <p class="subtitle">
+          <h2>A tecnologia IoT nas instituições de ensino</h2><br><br>
+          <p>
             A UNESCO(Organização das Nações Unidas para a Educação, a Ciência 
             a Cultura) destaca, entre outros benefícios, que as Tecnologias
             contribuem para “a qualidade de ensino e aprendizagem, o

@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title>Inter</title>
 
     <link rel="shortcut icon" href="./assets/imgs/favicon.ico" type="image/x-icon">
@@ -70,8 +70,8 @@
     <section class="sixth-section">
       <div class="container-main">
         <div class="container-sub">
-          <h2 class="title">Sistemas embarcados na educação</h2>
-          <p class="subtitle">
+          <h2>Sistemas embarcados na educação</h2><br><br>
+          <p>
 	Antes de falarmos diretamente dos sistemas embarcados na educação, devemos entender a tecnologia em geral e como ela impacta de forma positiva as vidas dos alunos, professores e da instituição ao todo.<br>   
 
     <br>A tecnologia é um importante aliado da educação. Além de expor os alunos a novas ferramentas cada vez mais necessárias no cotidiano pessoal e profissional, também oferece recursos para um processo de ensino mais flexível e dinâmico.<br> 

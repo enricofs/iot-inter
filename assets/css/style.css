@@ -7,6 +7,7 @@
 
 body {
   background: #23232e;
+  overflow-x: hidden;
 }
 
 a {
@@ -137,6 +138,7 @@ main {
 
 .container-main .img {
   height: 400px;
+  width: 400px;
   margin-top: 0px;
 }
 
@@ -208,20 +210,12 @@ section.section-video {
   overflow: hidden;
 }
 
-.second-section .container-main .img {
-  height: 400px;
-}
 
 /* THIRD SECTION */
 
 .third-section {
   background: rgb(33, 47, 49);
   overflow: hidden;
-}
-
-.third-section .container-main .img {
-  height: 500px;
-  margin-top: -80px;
 }
 
 /* FOURTH SECTION */
@@ -281,24 +275,62 @@ section.section-video {
     margin-left: 25px;
     white-space: nowrap;
   }
+
+.section-video .container-main .container-sub .frame-video {
+  height: 410px;
 }
 
-@media (max-width: 999px) {
+}
+
+@media (max-width: 900px) {
+  .container-main .img {
+    height: 300px;
+    width: 300px;
+  }
+}
+
+@media (max-width: 750px) {
+  .container-main .img {
+    height: 255px;
+    width: 255px;
+  }
+
+  .section-video .container-main .container-sub .frame-video {
+  height: 339px;
+  }
+}
+
+@media (max-width: 600px) {
   .container-main {
     margin: 100px 25px 100px 25px;
   }
 
   .container-main .img {
-    height: 300px;
+    height: 175px;
+    width: 175px;
   }
 
-  .second-section .container-main .img {
-    height: 300px;
+  .container-main .container-sub .title {
+    font-size: 21px;
   }
 
-  .third-section .container-main .img {
-    height: 300px;
-    margin-top: 0px;
+  .container-main .container-sub .subtitle {
+    font-size: 12px;
+  }
+
+  .container-main .container-sub .div-btn .btn-continue {
+    white-space: nowrap;
+  }
+
+  .section-video .container-main .container-sub .frame-video {
+    height: 309px;
+  }
+}
+
+@media (max-width: 460px) {
+
+  .container-main {
+    margin: 100px 20px 100px 20px;
   }
 
   .container-main .container-sub .title {
@@ -306,10 +338,37 @@ section.section-video {
   }
 
   .container-main .container-sub .subtitle {
-    font-size: 8px;
+    font-size: 11px;
   }
 
-  .container-main .container-sub .div-btn .btn-continue {
-    white-space: nowrap;
+  .section-video .container-main .container-sub .frame-video {
+    height: 230px;
   }
+
+
 }
+
+@media (max-width: 440px) {
+
+  .container-main {
+    margin: 100px 15px 100px 15px;
+  }
+
+  .container-main .img {
+    height: 135px;
+    width: 135px;
+  }
+
+  .container-main .container-sub {
+    padding-right: 5px;
+  }
+
+  .section-video .container-main .container-sub .frame-video {
+    height: 219px;
+  }
+
+}
+
+
+
+

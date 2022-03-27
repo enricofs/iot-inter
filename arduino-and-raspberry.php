@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title>Inter</title>
 
     <link rel="shortcut icon" href="./assets/imgs/favicon.ico" type="image/x-icon">
@@ -71,8 +71,8 @@
     <section class="fourth-section">
       <div class="container-main">
         <div class="container-sub">
-          <h2 class="title">O que é arduino </h2>
-          <p class="subtitle">
+          <h2>O que é arduino </h2><br><br>
+          <p>
             Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única. Ele é projetado com microcontroladores Atmel AVR com suporte de entrada / saída integrado. É uma linguagem de programação padrão derivada de Wiring, essencialmente C / C ++. O objetivo do projeto é criar ferramentas que sejam fáceis de usar, acessíveis, flexíveis e fáceis de usar por novatos e profissionais. Principalmente para quem não consegue usar os controladores e ferramentas mais complexas.<br>
 
             <br>Ele pode ser usado para desenvolver objetos interativos independentes ou para se conectar a um host. Uma placa Arduino típica consiste em um controlador, algumas linhas de E / S digitais e analógicas e uma interface serial ou USB para o host para programação em tempo real e interação com ele. A placa em si não possui funções de rede, mas é comum combinar um ou mais Arduinos dessa forma usando extensões apropriadas chamadas de shields. A interface do host é muito simples e pode ser escrita em vários idiomas. O mais popular é Processing, mas outros que podem se comunicar com conexões seriais são: Max / MSP, Pure Data, SuperCollider, ActionScript e Java. Em 2010, foi feito um documentário sobre uma plataforma chamada Arduino: The Documentary.<br>
@@ -86,8 +86,8 @@
     <section class="fifth-section" id="raspberry">
       <div class="container-main">
         <div class="container-sub">
-          <h2 class="title">O que é Raspberry Pi</h2>
-          <p class="subtitle">O Raspberry Pi é um computador de placa única do tamanho de um cartão de crédito (ou ainda menor, dependendo do modelo). Quando conectado a um monitor, mouse e teclado, o RPi funciona como um computador desktop.<br> 
+          <h2>O que é Raspberry Pi</h2><br><br>
+          <p>O Raspberry Pi é um computador de placa única do tamanho de um cartão de crédito (ou ainda menor, dependendo do modelo). Quando conectado a um monitor, mouse e teclado, o RPi funciona como um computador desktop.<br> 
 
             O primeiro modelo da placa, Raspberry Pi 1 Model B, foi lançado em 2012 pela Raspberry Pi Foundation. O objetivo da fundação é fornecer computadores de baixo custo e bom desempenho para que pessoas de diferentes idades e áreas de atuação possam aprender programação, desenvolver soluções e desfrutar do uso da placa.<br> 
 

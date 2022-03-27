@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title>Inter</title>
 
     <link rel="shortcut icon" href="./assets/imgs/favicon.ico" type="image/x-icon">
@@ -70,7 +70,7 @@
 
     <section class="section-video">
       <div class="container-main">
-        <div class="container-sub">
+        <div class="container-sub" style="padding-right: unset;">
           <h2 class="title">Vídeo sobre IOT - Interdisciplinar</h2>
           <iframe class="frame-video" src="https://www.youtube.com/embed/SxItKPTqPMk" title="Vídeo do YouTube sobre Internet das Coisas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <h3 class="subtitle">
